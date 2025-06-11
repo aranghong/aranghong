@@ -10,6 +10,10 @@
   <img src="https://img.shields.io/badge/java-f7c6c7?style=for-the-badge&logo=java&logoColor=555555"/>
   <img src="https://img.shields.io/badge/vue.js-d4f1c5?style=for-the-badge&logo=vue.js&logoColor=555555"/>
   <img src="https://img.shields.io/badge/javascript-fef7c5?style=for-the-badge&logo=javascript&logoColor=555555"/>
+  <img src="https://img.shields.io/badge/spring-adebad?style=for-the-badge&logo=spring&logoColor=555555"/>
+<img src="https://img.shields.io/badge/c%23-c5d4f2?style=for-the-badge&logo=csharp&logoColor=555555"/>
+<img src="https://img.shields.io/badge/wpf-e0d4f7?style=for-the-badge&logo=windows&logoColor=555555"/>
+
 </p>
 
 <h4>Tools</h4>
